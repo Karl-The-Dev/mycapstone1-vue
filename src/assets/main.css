@@ -1,0 +1,114 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+
+/* Nav */
+
+#nav{
+	background-color: #765C3D;
+}
+
+#nav a:hover {
+	transform: scale(1.1);
+}
+
+#navlinks a{
+	font-family: Montserrat;
+	font-weight: 500 !important;
+	font-style: Medium;
+	font-size: 18px;
+	leading-trim: NONE;
+	line-height: 100%;
+	letter-spacing: 0%;
+	text-align: center;
+
+	color: black;
+}
+
+/* Nav End */
+
+/* Landing */
+#landing{
+	background: 
+	linear-gradient(
+		rgba(0, 0, 0, 0.59), /*top*/
+		rgba(0, 0, 0, 0.59)  /*bottom*/
+	);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: rgba(255, 255, 255, 1);
+}
+
+#landing p{
+	font-family: Montserrat;
+	font-weight: 400;
+	font-style: Regular;
+	font-size: 14px;
+	leading-trim: NONE;
+	line-height: 30px;
+	letter-spacing: 0%;
+	color: rgba(255, 255, 255, 1);
+}
+
+#landing img {
+    max-width: 300px;
+}
+/* Projects */
+#projects h1 {
+    font-weight: 700 !important;
+}
+
+.card:hover {
+	transform: scale(1.1);
+}
+
+/* Tools */
+#tools h1 {
+    font-weight: 700 !important;
+}
+
+#tools img {
+  
+  max-width: 100px;
+  
+}
+
+/* Tools End */
+
+/* Contact */
+
+#contact {
+    background: 
+	linear-gradient(
+		rgba(0, 0, 0, 0.59), /*top*/
+		rgba(0, 0, 0, 0.59)  /*bottom*/
+	);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: rgba(255, 255, 255, 1);
+}
+
+.social-images img {
+            max-width: 50px;
+            transition: transform 0.3s;
+}
+
+.social-images img:hover {
+            transform: scale(1.1);
+}
+
+#button-contact {
+            padding: 8px 25px;
+}
+
+#map iframe {
+            width: 80%;
+            height: 80%;
+            min-height: 400px;
+}
+
+/* Contact End */

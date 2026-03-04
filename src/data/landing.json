@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Karl the Dev",
+        "title": "Full Stack Web Developer",
+        "description": {
+            "part1": "As a full-stack developer, I specialize in crafting dynamic and intuitive web applications that users love. My process begins with the end-user, focusing on creating responsive and accessible interfaces with modern JavaScript and TypeScript. I then bridge that experience with powerful server-side logic, designing secure APIs and managing data with technologies like PostgreSQL and MongoDB. This end-to-end capability allows me to not only envision a compelling user journey but also to engineer the entire system that makes it possible, ensuring a cohesive and high-performance result.",
+            "part2": "Beyond writing code, I am deeply committed to the principles of software craftsmanship and continuous learning. I enjoy the puzzle of system architecture and am proficient in deploying and maintaining applications in cloud environments like AWS. I take pride in writing code that is not only functional but also readable, testable, and scalable. I'm driven by the opportunity to work on diverse projects where I can contribute across the entire stack, collaborate with passionate people, and continuously evolve my skills to meet the ever-changing landscape of web technology."
+        }
+    }
+]
