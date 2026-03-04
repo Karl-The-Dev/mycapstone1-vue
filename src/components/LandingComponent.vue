@@ -2,9 +2,7 @@
 
     import landing from "../data/landing.json";
 
-    const test = landing[0];
-
-    console.log(test)
+    const test = landing[0];    
 
 </script>
 
