@@ -19,13 +19,13 @@
                         <a class="nav-link active" aria-current="page" href="#landing">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.google.com/">My Projects</a>
+                        <a class="nav-link" href="#projects">My Projects</a>
                     </li>                    
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.google.com/">Tools</a>
+                        <a class="nav-link" href="#tools">Tools</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.google.com/">Contact</a>
+                        <a class="nav-link" href="#contact">Contact</a>
                     </li>
                 </ul>
             </div>
